@@ -1,5 +1,3 @@
-# Tugas-Besar-IF2120-2025-2026---AyamAsapRempah
-
 # Glaucoma EDA and Statistical Testing
 
 Repository ini berisi analisis statistik terhadap dataset pasien glaukoma menggunakan Python. Analisis dilakukan untuk memahami karakteristik data, distribusi variabel, keberadaan outlier, serta menguji beberapa hipotesis statistik terkait tekanan intraokular, cup-to-disc ratio, riwayat keluarga, dan diagnosis glaukoma.
